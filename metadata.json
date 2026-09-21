@@ -1,0 +1,6 @@
+{
+  "name": "Matemáticas en Vivo",
+  "description": "Plataforma interactiva de alta concurrencia en tiempo real para matemáticas escolares (8° Básico a 4° Medio) con servidor autónomo de costo cero ($0 USD), vista de proyector/docente y vista de alumnos con captura de fotos del cuaderno.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
